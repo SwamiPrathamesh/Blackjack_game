@@ -15,7 +15,7 @@ This project is a simple implementation of the classic Blackjack game in Python.
 ## How to Play
 
 1. **Clone the Repository:**
-   `git clone https://github.com/your-username/Blackjack-Game.git`
+   `git clone https://github.com/SwamiPrathamesh/Blackjack-Game.git`
    `cd Blackjack-Game`
 
 2. **Run the Game:**
